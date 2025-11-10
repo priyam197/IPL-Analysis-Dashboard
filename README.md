@@ -8,7 +8,7 @@ It provides deep insights into matches, teams, and players — beautifully desig
 ---
 
 ## 🖼️ Dashboard Preview
-![IPL Analysis Dashboard](ipl dashboard.png)
+![IPL Analysis Dashboard](ipl_dashboard.png)
 
 ---
 
